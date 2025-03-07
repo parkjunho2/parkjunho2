@@ -85,5 +85,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parkjunho2&show_icons=true&locale=en" alt="parkjunho2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parkjunho2&" alt="parkjunho2" /></p>
+![parkjunho2](https://github-readme-streak-stats.herokuapp.com/?user=parkjunho2&)
 
